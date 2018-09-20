@@ -1,0 +1,9 @@
+export const START_LOADER = "START_LOADER";
+export const STOP_LOADER = "STOP_LOADER";
+
+export const SIGNIN_BEGIN = "SIGNIN_BEGIN";
+export const SIGNIN_SUCCESS = "SIGNIN_SUCCESS";
+export const SIGNIN_FAILURE = "SIGNIN_FAILURE";
+
+export const OPEN_SNACKBAR = "OPEN_SNACKBAR";
+export const CLOSE_SNACKBAR = "CLOSE_SNACKBAR";
